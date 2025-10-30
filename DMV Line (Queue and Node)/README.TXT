@@ -1,12 +1,7 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
+PROJECT TITLE: Check-In Queue System
+PURPOSE OF PROJECT: system that allows people t enter their name into the system, see who's next in the list, and remove someone from the top of the list
+VERSION or DATE: 4/3/2024
 HOW TO START THIS PROJECT:
-AUTHORS:
+AUTHORS: Kiame McCartha
 USER INSTRUCTIONS:
+
